@@ -1,3 +1,6 @@
+#Author: Goblanch
+#Github: https://github.com/Goblanch/DummyBot 
+
 from typing import List
 import discord
 from discord.ext import commands
