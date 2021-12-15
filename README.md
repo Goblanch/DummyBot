@@ -10,4 +10,4 @@ I've used this tutorial to create the application for the bot.
 
 Link: https://realpython.com/how-to-make-a-discord-bot-python/ 
 
-In the main.py you need to add your bot's token to get the script running.
+In the main.py script you need to add your bot's token to get it running.
